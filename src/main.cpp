@@ -1,6 +1,9 @@
 #include "../include/gp/gp.h"
 
-void processInput(GLFWwindow *window);
+//Hi ^^ 
+//Love the GP namespace you made and your folder organization, project looks really tidy.
+
+void processInput(GLFWwindow *window, int width, int height);
 
 int main()
 {
